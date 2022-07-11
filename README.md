@@ -25,4 +25,12 @@ Blockchain enthusiastic living in India.
 
 <hr>
 
+<br/>  
+
+## Github Stats 
+|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterroyhere&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroyhere&layout=compact" /> |
+| ------------- | ------------- |
+
+<br/>  
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
