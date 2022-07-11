@@ -2,6 +2,9 @@
 
 ### PeterRoy
 
+<img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
+
+
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
