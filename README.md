@@ -3,7 +3,6 @@
 </p>
 <br />
 
-### Hi there 👋 
 <img  align="right" src="https://komarev.com/ghpvc/?username=peterroyhere&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
 ### PeterRoy
