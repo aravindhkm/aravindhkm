@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/peterroyhere"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
+</p>
+<br />
+
 ### Hi there 👋 
 <img  align="right" src="https://komarev.com/ghpvc/?username=peterroyhere&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
