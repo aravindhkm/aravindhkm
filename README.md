@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/aravindhkm"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=a08887&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/aravindhkm"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=a08887&vCenter=true&size=45%22"></a>
 </p>
 <br />
 
@@ -31,6 +31,14 @@ Blockchain enthusiastic living in India.
 <br/>  
 
 ## Github Stats 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhkm" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkm&layout=donut&langs_count=8&card_width=320" />
+</a>
+
 |  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhkm&layout=compact" /> |
 | ------------- | ------------- |
 
