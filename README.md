@@ -34,6 +34,9 @@ Blockchain enthusiastic living in India.
 |  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhkm&layout=compact" /> |
 | ------------- | ------------- |
 
+[![Aravindh K GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Aravindh K GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <br/>  
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
