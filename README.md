@@ -31,9 +31,7 @@ Blockchain enthusiastic living in India.
 <br/>  
 
 ## Github Stats 
-
-| ------------- | ------------- |
-|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhkm&layout=compact" /> |
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhkm&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhkm&layout=compact" /> 
 
 <br/>  
 
