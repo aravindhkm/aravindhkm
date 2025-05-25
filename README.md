@@ -20,7 +20,9 @@ A passionate **Software Engineer** with nearly 6 years of experience designing, 
 - 🏆 **Open Source Contributor** with a focus on distributed systems and blockchain tools  
 - ☁️ **Experienced in building and scaling microservices** using Kubernetes and container orchestration in cloud environments  
 - 🔁 **Proficient in Golang for system-level and backend development**, including API servers, CLI tools, and concurrent systems  
-- 📍 Based in Bengaluru, India   
+- 📍 Based in Bengaluru, India
+- ✨ Creating bugs since 2016
+- 🎲 Catching up… slowly!
 
 ---
 
@@ -58,6 +60,15 @@ A passionate **Software Engineer** with nearly 6 years of experience designing, 
 
 ---
 
+###
+
+<img src="https://github.com/ivanlemeshev/ivanlemeshev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
+---
+
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -66,9 +77,7 @@ A passionate **Software Engineer** with nearly 6 years of experience designing, 
 </p>
 
 ---
-
-### 📘 Quote
-> “Catching up… slowly!.”  
+-->
 
 ---
 
