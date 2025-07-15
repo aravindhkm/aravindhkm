@@ -62,7 +62,7 @@ A passionate **Software Engineer** with nearly 6 years of experience designing, 
 
 ###
 
-<img src="https://github.com/ivanlemeshev/ivanlemeshev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/aravindhkm/aravindhkm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
